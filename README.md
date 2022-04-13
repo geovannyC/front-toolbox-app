@@ -80,22 +80,22 @@ npm run test
 
      
 <div align="center">
-	<h1 >Intewview App</h1>
+	<h1 >Result App</h1>
 		<img src="./evidence/image1.png" width="800" height="400" alt="Click to see the source">
 </div>
 <div align="center">
-	<h2 >Selector Component</h2>
+	<h2 >Home</h2>
 		<img src="./evidence/image2.png" width="800" height="400" alt="Click to see the source">
 </div>
 <div align="center">
-	<h2 >Data Preview</h2>
+	<h2 >List Files</h2>
 		<img src="./evidence/image3.png" width="800" height="400" alt="Click to see the source">
 </div>
 <div align="center">
-	<h2 >Data Saved</h2>
+	<h2 >If the file is empty or got a 404 error</h2>
 		<img src="./evidence/image4.png" width="800" height="400" alt="Click to see the source">
 </div>
 <div align="center">
-	<h2 >File Selector Component</h2>
+	<h2 >Result if the file isn't empty</h2>
 		<img src="./evidence/image1.png" width="800" height="400" alt="Click to see the source">
 </div>
