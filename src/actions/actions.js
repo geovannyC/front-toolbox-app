@@ -1,0 +1,4 @@
+export const ACTIONS = {
+    REEMPLACE: "REEMPLACE",
+    CALL_FILE_LIST: "CALL_FILE_LIST",
+  };
